@@ -5,3 +5,5 @@ Profile screen code
 Last seen code
 
 Attachment code
+
+Hiding the last seen
