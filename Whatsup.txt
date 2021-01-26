@@ -7,3 +7,5 @@ Last seen code
 Attachment code
 
 Hiding the last seen
+
+Status for 24 hrs
